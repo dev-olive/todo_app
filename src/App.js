@@ -5,6 +5,7 @@ import TodoInsert from './components/TodoInsert';
 function App() {
   return (
     <TodoTemplate>
+      <TodoInsert/>
     </TodoTemplate>
   );
 }
